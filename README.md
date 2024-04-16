@@ -23,22 +23,33 @@
 - The market being disrupted is point-of-care ultrasound (POCUS), which is performed right at the bedside using a portable machine.
 - A significant hurdle faced by the Butterfly iQ is the displacement of entrenched ultrasound technologies.
 
-## VI. Financial Performance
+## VI. Competitors
+- GE Healthcare: A leading global provider of medical imaging equipment, including portable ultrasound devices.
+- Philips Healthcare: Another major player in the medical imaging industry, offering a range of ultrasound solutions, including portable options.
+- Siemens Healthineers: Known for its advanced medical technology solutions, Siemens offers portable ultrasound devices for various clinical applications.
+- FUJIFILM SonoSite: Specializing in portable ultrasound systems, FUJIFILM SonoSite provides compact and durable devices for point-of-care imaging.
+
+## VII. Financial Performance
 - Butterfly Network currently boasts a market capitalization of $220 million.
 - Positioned competitively at $1,999, the Butterfly iQ offers a pricing advantage over existing alternatives in the market.
 - According to a press release issued in 2023, Butterfly Network reported a minor double-digit decline in revenue.
 
-## VII. Regulatory Landscape
+## VIII. Regulatory Landscape
 - Butterfly Network has confirmed FDA clearance of its Next-Generation Handheld Ultrasound System, Butterfly iQ3.
 - Butterfly’s cybersecurity team enforces and monitors cybersecurity operations within the company and its third-party business partners using globally recognized, industry-standard, risk-based frameworks, including NIST, SOC 2, HIPAA, HITECH, and GDPR.
 - Ultrasound is widely used because it provides many clinical benefits to the patient and has an excellent safety record. Ultrasound imaging has been used for over twenty years, and there have been no known long-term negative side effects associated with this technology.
 
-## VIII. Future Outlook and Opportunities
+## IX. Future Outlook and Opportunities
 - There is a promising outlook for continued innovation and product development within Butterfly Network.
 - Strategic market expansion initiatives are slated for implementation to capitalize on emerging opportunities.
 - Proactive measures aimed at addressing challenges and mitigating associated risks are accorded priority to ensure sustained growth and success.
 
-## IX. Conclusion
+## X. Recommendations
+- Invest in ongoing research and development efforts to further enhance the capabilities of the Butterfly iQ
+- Forge strategic partnerships with healthcare organizations, government agencies, and non-profit organizations to promote the adoption of handheld ultrasound technology
+- Engage with the healthcare community and patient advocacy groups to raise awareness about the benefits of handheld ultrasound technology and gather insights into unmet needs and opportunities for innovation.
+
+## XI. Conclusion
 - Butterfly Network's journey underscores its remarkable achievements in pioneering a technology that revolutionizes ultrasound accessibility, affordability, and portability.
 - The potential of Butterfly Network to enhance global healthcare accessibility is significant, promising to democratize medical imaging worldwide.
 - While lauded for its remarkable innovation, Butterfly Network acknowledges the imperative of further advancement to fully supplant incumbent systems and establish itself as the standard-bearer in the field.
